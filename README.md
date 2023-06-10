@@ -1,1 +1,19 @@
-# cbanegas15.github.io
+## CIT 281 Labs and Projects
+
+1. [Lab 1:](url-to-lab1-repo)
+2. [Lab 2: ](url-to-lab1-repo)
+3. [Lab 3: ](url-to-lab1-repo)
+4. [Lab 4:](url-to-lab1-repo)
+5. [Lab 5:](url-to-lab1-repo)
+6. [Lab 6:](url-to-lab1-repo)
+7. [Lab 7:](url-to-lab1-repo)
+8. [Lab 8: ](url-to-lab1-repo)
+9. [Lab 9: ](url-to-lab1-repo)
+10. [Project 1:](url-to-lab1-repo)
+11. [Project 2:](url-to-lab1-repo)
+12. [Project 3:](url-to-lab1-repo)
+13. [Project 4:](url-to-lab1-repo)
+14. [Project 5:](url-to-lab1-repo)
+15. [Project 6:](url-to-lab1-repo)
+16. [Project 7:](url-to-lab1-repo)
+![Image](https://unsplash.com/photos/uFEJbHvdS5s)
